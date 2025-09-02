@@ -1,0 +1,2 @@
+abbr "job64g7d"="qsub -q o_pri_cpu_64G_7D -J \"%\" -m rel75 -P atg_meth_atg_dftm -app affinity \"/bin/sleep infinity\""
+abbr "p4s"="p4 sync -q --parallel=threads=(nproc) ..."
